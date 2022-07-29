@@ -1,12 +1,7 @@
 Nicholas Perry
 Final Project Part 4
 
-Application URL:
-https://39ecn9-nick-perry.shinyapps.io/Project/?_ga=2.39842339.149291711.1659047937-842610698.1659047937
-The application is hosted on shinyapps.io. My debugging process led me to disconnect from the app from the MySQL database. This makes CRUD impossible, but allows the user to see the data table and view the histograms on the “Histograms” tab.
-GitHub URL:
-The GitHub repository is available at the following URL: https://github.com/haibai23/DSCI-D-532-Project
-Overview:
+
 For the model, I am using MySQL for storing the necessary data. The view will be developed with Shiny in R using RMySQL to connect to the MySQL database. The controller will also be developed using Shiny in R.
 Data Storage:
 Web application architecture is an important component of any data-based project. The data for this project is being stored in a noSQL MySQL. 
